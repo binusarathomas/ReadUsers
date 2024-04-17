@@ -1,0 +1,16 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "version": "1.15.2",
+    "libraryName": "read-all-users-api",
+    "libraryId": "032d18d0-1e85-4da0-b7a9-ffe77bca28d9",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "ReadAllUsersAPI",
+    "solutionShortDescription": "ReadAllUsersAPI description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}
